@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 echo best
 #!/bin/bash
+=======
+#!/bin/bash
+echo "Best"
+>>>>>>> d42ae6abc7fc220b8e8b35e4097c161dfbc89be5
